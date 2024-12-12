@@ -1,6 +1,0 @@
-- Vipula
-  - Sandun
-    - Udara
-    - Janith
-  - Pavithran
-    - Chamodi
